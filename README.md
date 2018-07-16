@@ -2,7 +2,7 @@ campusPaths, an Android Application for finding the shortest route from building
  
 Screenshot of the app running on an emulator:
 
-[logo]
+![alt text][logo]
 
 [logo]: https://i.imgur.com/H6rsCMj.png "Emulatorscreen"
 
